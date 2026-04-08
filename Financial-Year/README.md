@@ -14,7 +14,6 @@ This dashboard presents financial year performance using Power BI.
 ## Files Included
 - financial_year_dashboard.pbix
 - financial_year_dashboard.jpg
-- financial_year_dashboard.xlsx
 
 ## Purpose
 To analyze yearly performance and identify trends.
